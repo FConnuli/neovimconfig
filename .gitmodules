@@ -1,0 +1,12 @@
+[submodule "pack/themes/dracula.nvim"]
+	path = pack/themes/dracula.nvim
+	url = https://github.com/Mofiqul/dracula.nvim.git
+[submodule "pack/plugins/start/nvim-treesitter"]
+	path = pack/plugins/start/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git
+[submodule "pack/plugins/start/telescope.nvim"]
+	path = pack/plugins/start/telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim.git
+[submodule "pack/plugins/start/plenary.nvim"]
+	path = pack/plugins/start/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim.git

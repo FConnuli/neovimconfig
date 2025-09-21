@@ -1,3 +1,3 @@
 require("FX.remap")
 require("FX.set")
---vim.cmd[[colorscheme dracula]]
+vim.cmd[[colorscheme dracula]]
