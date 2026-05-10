@@ -23,6 +23,8 @@ vim.opt.cursorline = true
 
 vim.opt.colorcolumn = "80"
 
+vim.o.winborder = 'rounded'
+
 vim.diagnostic.config({
   virtual_text = true,
   signs = true,
