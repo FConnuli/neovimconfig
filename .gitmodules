@@ -10,3 +10,6 @@
 [submodule "pack/plugins/start/plenary.nvim"]
 	path = pack/plugins/start/plenary.nvim
 	url = https://github.com/nvim-lua/plenary.nvim.git
+[submodule "pack/plugins/start/blink.cmp"]
+	path = pack/plugins/start/blink.cmp
+	url = https://github.com/saghen/blink.cmp.git
